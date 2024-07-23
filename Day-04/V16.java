@@ -1,0 +1,24 @@
+import java.util.Scanner;
+public class V16 {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter the number:");
+        int num= sc.nextInt();
+      
+
+        do {
+            // System.out.println(num);
+            int num1 = num++;
+            int num3= num+num1;
+            System.out.println(num3);
+            num1++;
+        
+
+        
+
+
+            
+        } while (num<5);
+    }
+    
+}

@@ -1,0 +1,10 @@
+class nebu{
+
+}
+
+public class pgg2 {
+    public static void main(String[] args) {
+        
+    }
+    
+}

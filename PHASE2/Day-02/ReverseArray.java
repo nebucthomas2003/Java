@@ -9,8 +9,9 @@ public class ReverseArray { // Reverse the elements from one array to another ar
 
         for (int i = a.length - 1; i >= 0; i--) {
 
-            b[k++] = a[i];
-            System.out.println(Arrays.toString(b));
+            b[k] = a[i];
+            k++;
+           // System.out.println(Arrays.toString(b));
 
         }
         System.out.println("Old Array:");

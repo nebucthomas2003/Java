@@ -1,6 +1,6 @@
 public class MissingNum {//Find the missing element in the array
     public static void main(String[] args) {
-        int a[] = { 1, 2, 3,  6, 8 };
+        int a[] = { 1,2,3,4,5,7 };
         int min = a[0];
         int max = a[0];
         for (int i = 1; i < a.length; i++) {

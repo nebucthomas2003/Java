@@ -1,7 +1,7 @@
 
 import java.util.Arrays;
 
-public class CopyingElements {//copying elements from 1 array to another array
+public class CopyingElements {//Copying elements from 1 array to another array
     public static void main(String[] args) {
         int a1[]={10,20,30,40,50};
         int a2[]=new int[5];

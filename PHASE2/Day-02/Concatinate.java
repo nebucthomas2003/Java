@@ -6,7 +6,6 @@ public class Concatinate { // Concatinate Two Arrays
         int b[] = { 5, 6, 7, 8 };
         int c[] = new int[a.length + b.length];
         int k = 0;
-
         for (int i = 0; i < a.length; i++) {
             c[k++] = a[i];
 

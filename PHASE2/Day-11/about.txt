@@ -1,0 +1,77 @@
+This folder Day-11 and above are based on the Collections topic in Java, which are essentials for learning DSA. If you could concentrate more on
+STRING | ARRAYS | COLLECTIONS then DSA will be easy.
+
+Collections are framework for java which helps us to store data in different type of ways. Collections can be divided into
+
+1.List
+2.Queue
+3.Set
+
+These are the primary topics from which again it wil get splitted.
+
+List 
+*****
+List can be divided into
+                        1.ArrayList
+                        2.LinkedList
+                        3.Vector
+                        4.Stack
+            Properties
+            **********
+            1.They all follow insertion order
+            2.They all are Classes
+            
+
+
+            ArrayList
+            ---------
+            ArrayList are based on arrays. They follow insertion order. Initial capacity is 10 .
+            it can be created by three ways.
+                                            1. without arguments
+                                            2. with arguments
+                                            3. with Collections
+            It is possible to do all CRUD operations.
+
+            LinkedList
+            ----------
+            LinkedList are based on arrays. They follow insertion order.They are node containing three parts
+            Previous where it store the address of the Previous node, the body where it will store the data, the next where it
+            will store address of the next node. it is easy to add, remove, and do CRUD operationsin LinkedList than in array due to its efficiency.
+
+            Vector
+            ------
+            Vector is a legacy class. It will follow the insertion order and it work exactly as the same.
+
+            Stack
+            -----
+            The Stack is also a legacy class . It is a chain of vector. It works like Last IN First Out Fashion . 
+
+
+2.Queue
+*********
+Queue is an interface which consist of
+                                     1. Priority Queue
+                                     2. Array Dequeue
+
+                                     The follow First In First Out fashion for adding and removing elements.
+                                     Properties
+                                     ----------
+                                     1.They do not follow insertion order
+                                     2.They follow first in first out fashion
+
+
+                        1-Priority Queue
+                        It is a queue which add elements in based on Priority.elements with less value have higher Priority.
+                        it has many methods to add and remove elements.
+
+                        2-Array Dequeue
+                        It is queue which we can add elements at first or last . it has several methods with CRUD operations.   
+
+
+
+
+
+
+
+
+

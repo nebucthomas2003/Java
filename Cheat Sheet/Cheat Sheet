@@ -1,3 +1,11 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>||||  COMPREHENSIVE CHEET SHEET  ||||<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+Hello Everyone,
+I'm Nebu C Thomas, Software Engineer based on India. This is a comprehensive repository created while learning Java Language.
+This repo contains every programs,cheet sheet that I have learned during my college days and training days. This repo will be usefull to
+those who are learning and starting a career in CS.
+
+ALL THE BEST GUYS!!!!
+
 /******************** String, char, Integer conversion ***************/
 [String to int]:     Integer.parseInt(s);        // return int primitive
 [String to Integer]: Integer.valueOf(s); 	     // return an Integer Object
